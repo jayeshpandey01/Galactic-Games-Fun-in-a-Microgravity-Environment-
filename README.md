@@ -73,12 +73,6 @@ For detailed contributing guidelines, refer to the [CONTRIBUTING.md](CONTRIBUTIN
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact
-
-For any questions or support, please reach out to:
-- **Project Lead**: Jayesh Pandey
-- **Email**: jayesh.pandey@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
 
 ---
 
